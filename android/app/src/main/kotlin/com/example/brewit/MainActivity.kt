@@ -1,4 +1,4 @@
-package com.example.brewit
+package com.andyleeboo.brewit
 
 import io.flutter.embedding.android.FlutterActivity
 

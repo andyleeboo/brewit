@@ -89,11 +89,11 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.example" "\0"
+            VALUE "CompanyName", "com.andyleeboo" "\0"
             VALUE "FileDescription", "brewit" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "brewit" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 com.andyleeboo. All rights reserved." "\0"
             VALUE "OriginalFilename", "brewit.exe" "\0"
             VALUE "ProductName", "brewit" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"

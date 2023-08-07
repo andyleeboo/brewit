@@ -8,7 +8,7 @@
 PRODUCT_NAME = brewit
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.brewit
+PRODUCT_BUNDLE_IDENTIFIER = com.andyleeboo.brewit
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2023 com.example. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2023 com.andyleeboo. All rights reserved.
